@@ -1,0 +1,8 @@
+ hi this is my 2nd file now iwrting the plsql programm --
+
+declare
+  v_ename := challa;
+begin
+ dbms_output.put_line (v_ename)
+end;
+

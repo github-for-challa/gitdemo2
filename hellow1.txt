@@ -1,0 +1,5 @@
+ hi world this my 1st files and i creating sql command its is;
+select * form emp where empno=&v_empno;
+:wq!
+:wq
+

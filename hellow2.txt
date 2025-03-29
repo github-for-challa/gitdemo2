@@ -3,6 +3,6 @@
 declare
   v_ename := challa;
 begin
- dbms_output.put_line (v_ename)
+ dbms_output.put_line (v_ename) #has to print this
 end;
 
